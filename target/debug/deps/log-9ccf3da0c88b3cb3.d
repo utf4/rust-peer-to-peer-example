@@ -1,0 +1,12 @@
+/Users/macbookpro/Desktop/Blockchain/Tokio/rust-peer-to-peer-example/target/debug/deps/log-9ccf3da0c88b3cb3.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/key.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/source.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/value.rs
+
+/Users/macbookpro/Desktop/Blockchain/Tokio/rust-peer-to-peer-example/target/debug/deps/log-9ccf3da0c88b3cb3.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/mod.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/key.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/source.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/value.rs
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/macros.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/serde.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/mod.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/error.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/key.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/source.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/log-0.4.17/src/kv/value.rs:
